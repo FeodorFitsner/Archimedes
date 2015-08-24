@@ -1,6 +1,7 @@
 ﻿namespace Archimedes.Common.Tests
 {
 	using Xunit;
+	using System;
 	using System.Configuration;
 
 	public class BootTests
